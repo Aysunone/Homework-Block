@@ -1,12 +1,12 @@
 .yazi{
     background-image: url(images/image.png);
-    font-size: 80px;
-    background-size: cover;
-    width: 700px;
     font-family: Arial, Helvetica, sans-serif;
     background-clip: text;
+    font-size: 50px;
+    background-size: cover;
     color: transparent;
     text-align: center;
+    width: 100%;
 }
 .qutu{
     width: 250px;
